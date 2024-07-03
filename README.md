@@ -1,1 +1,1 @@
-Membuat CRUD dengan node JS 
+Membuat CRUD dengan node JS, hapi js dan joi
